@@ -29,18 +29,20 @@ config.markerValues = {
 }
 
 config.disableMarker = {
-	["locomotive"]  = true,
-	["fluid-wagon"] = true,
-	["cargo-wagon"] = true,
-	["car"]         = true,
-	["signpost"]    = true,
+	["locomotive"]     = true,
+	["fluid-wagon"]    = true,
+	["cargo-wagon"]    = true,
+	["car"]            = true,
+	["spider-vehicle"] = true,
+	["signpost"]       = true,
 }
 
 config.disableTitle = {
-	["locomotive"]  = true,
-	["fluid-wagon"] = true,
-	["cargo-wagon"] = true,
-	["car"]         = true,
+	["locomotive"]     = true,
+	["fluid-wagon"]    = true,
+	["cargo-wagon"]    = true,
+	["car"]            = true,
+	["spider-vehicle"] = true,
 }
 
 config.alwaysAttachNote = {
@@ -80,6 +82,7 @@ config.offerAttachNote = {
 	["mining-drill"]          = true,
 	["storage-tank"]          = true,
 	["car"]                   = true,
+	["spider-vehicle"]        = true,
 	["ammo-turret"]           = true,
 	["artillery-turret"]      = true,
 	["decider-combinator"]    = true,
@@ -95,7 +98,7 @@ config.markerOffsets = {
 }
 
 config.titleOffsets = {
-	["signpost"]      = { x = 0.5, y = -0.4 },
+	["signpost"]      = { x = 0, y = 0.2 },
 	["rocket-silo"]   = { x = 0, y = -3 },
 	["offshore-pump"] = { x = 0, y = -0.75 }
 }

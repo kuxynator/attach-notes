@@ -1,4 +1,24 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.8
+Date: 2020-10-30
+  Changes:
+    - Compatibility with Space Exploration mod
+  Bugfixes:
+    - Fixed leftover notes when destroying entities
+    - Fixed signposts not showing icons
+---------------------------------------------------------------------------------------------------
+Version: 0.4.7
+Date: 2020-09-22
+  Changes:
+    - Note titles are now centered
+    - Compatibility with Creative mod
+    - Added support for notes on spidertron
+---------------------------------------------------------------------------------------------------
+Version: 0.4.5
+Date: 2020-08-29
+  Changes:
+    - Added german locale (thanks to Kuxynator)
+---------------------------------------------------------------------------------------------------
 Version: 0.4.4
 Date: 2020-08-28
   Changes:
