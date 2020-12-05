@@ -45,3 +45,4 @@ attach-notes/mod-settings.json
 
 .build/
 .vscode/
+.vs/
